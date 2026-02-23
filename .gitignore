@@ -1,0 +1,18 @@
+# Certificate and key files (secrets)
+certs/
+*.pem
+*.key
+
+# Binary
+gateway-simulator
+*.exe
+
+# Go
+go.sum
+
+# IDE and OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
